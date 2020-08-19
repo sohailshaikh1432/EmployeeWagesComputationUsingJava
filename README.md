@@ -13,3 +13,5 @@
 * v5.0.0  ,  UC-5-Employee-Wages-For-Month
 
 * v6.0.0  ,  UC-6-Employee-Wages-Reach-100Hr-20Days
+
+* v7.0.0  ,  Day-21 , UC-7 : Compute employee wages using method
